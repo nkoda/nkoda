@@ -17,8 +17,8 @@ Hi I'm Nikko. 👋<br>A Full Stack Developer with a background in Data Science. 
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
+ -->
 ---
-[![](https://visitcount.itsvg.in/api?id=nkoda&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=nkoda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
